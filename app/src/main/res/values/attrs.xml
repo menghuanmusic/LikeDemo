@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LikeView">
+        <attr name="selectedSrc" format="reference" />
+        <attr name="shining" format="reference" />
+        <attr name="unselectedSrc" format="reference" />
+        <attr name="scale" format="float" />
+        <attr name="num" format="integer" />
+        <attr name="numTextColor" format="color" />
+        <attr name="clickCircleColor" format="color" />
+    </declare-styleable>
+</resources>
